@@ -66,3 +66,5 @@ print("\t[+] TIMEZone \t\t\t", data["timezone"])
 print("\t[+] ZIP \t\t\t", data["zip"])
 print("\t[+] LAT \t\t\t", data["lat"])
 print("\t[+] LON \t\t\t", data["lon"])
+
+#If you can undersamt what the fuck is written above then by misfortune your are also programmer
